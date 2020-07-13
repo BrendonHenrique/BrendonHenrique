@@ -16,7 +16,7 @@
 - :office: User Interface Developer at [Possible](https://possible.com/)
 
 - :books: My develop skills includes 
-    - [VueJS](https://vuejs.org/) + [Quasar](https://quasar.dev/) 
+    - [VueJS](https://vuejs.org/) + [Quasar](https://quasar.dev/) + [Vuex](https://vuex.vuejs.org/)
     - [NuxtJs](https://nuxtjs.org/) 
     - [ReactJs](https://reactjs.org/)
     - [NextJs](https://nextjs.org/)
