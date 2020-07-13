@@ -16,16 +16,16 @@
 - :office: User Interface Developer at [Possible](https://possible.com/)
 
 - :books: My develop skills includes 
-    - Vue Js + Quasar 
-    - Nuxt 
-    - ReactJs 
-    - Next 
-    - React-native 
-    - Java + Spark Framework 
-    - Node + Express 
-    - C
+    - [VueJS](https://vuejs.org/) + [Quasar](https://quasar.dev/) 
+    - [NuxtJs](https://nuxtjs.org/) 
+    - [ReactJs](https://reactjs.org/)
+    - [NextJs](https://nextjs.org/)
+    - [React-Native](https://reactnative.dev/) 
+    - [Java](oracle.com/java/technologies/) + [SparkFramework](http://sparkjava.com/) 
+    - [Node](https://nodejs.org/) + [Express](https://expressjs.com/) 
+    - [C](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
 
-- 🌱 I’m currently learning Dart 💙 Flutter
+- 🌱 I’m currently learning [Dart](https://dart.dev/) 💙 [Flutter](https://flutter.dev/)
 
 
 <img align="right" src="https://raw.githubusercontent.com/BrendonHenrique/BrendonHenrique/cb2984da333ec43d7638c1b2ae4752e92e6149ee/draw1.svg" height="100">     
