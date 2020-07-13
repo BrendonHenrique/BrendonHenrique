@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:bhssilva@gmail.com)
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/BrendonHenrique/BrendonHenrique/cb2984da333ec43d7638c1b2ae4752e92e6149ee/draw2.svg" width="300" height="300"> 
+    <img src="https://raw.githubusercontent.com/BrendonHenrique/BrendonHenrique/cb2984da333ec43d7638c1b2ae4752e92e6149ee/draw2.svg" width="400" height="300"> 
 </p>
 
 
