@@ -9,6 +9,9 @@
 </p>
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/BrendonHenrique/github-readme-stats)
+
+
 ### Hello! Welcome to my profile :octocat:
 
 - 🔭 I’m working on web development & mobile development
