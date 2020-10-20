@@ -9,7 +9,7 @@
 </p>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/BrendonHenrique/github-readme-stats)
+[![Brendon's github stats](https://github-readme-stats.vercel.app/api?username=BrendonHenrique)](https://github.com/BrendonHenrique/github-readme-stats)
 
 
 ### Hello! Welcome to my profile :octocat:
