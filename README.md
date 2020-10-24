@@ -9,9 +9,6 @@
 </p>
 
 
-[![Brendon's github stats](https://github-readme-stats.vercel.app/api?username=BrendonHenrique)](https://github.com/BrendonHenrique/github-readme-stats)
-
-
 ### Hello! Welcome to my profile :octocat:
 
 - 🔭 I’m working on web development & mobile development
@@ -29,6 +26,8 @@
     - [C](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
 
 - 🌱 I’m currently learning [Dart](https://dart.dev/) 💙 [Flutter](https://flutter.dev/)
+
+[![Brendon's github stats](https://github-readme-stats.vercel.app/api?username=BrendonHenrique)](https://github.com/BrendonHenrique/github-readme-stats)
 
 
 <img align="right" src="https://raw.githubusercontent.com/BrendonHenrique/BrendonHenrique/cb2984da333ec43d7638c1b2ae4752e92e6149ee/draw1.svg" height="100">     
