@@ -25,7 +25,8 @@
     - [Node](https://nodejs.org/) + [Express](https://expressjs.com/) 
     - [C](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
 
-- 🌱 I’m currently learning [Dart](https://dart.dev/) 💙 [Flutter](https://flutter.dev/)
+- 🌱 I’m currently learning mainly mobile development 💙 with [Dart](https://dart.dev/) + [Flutter](https://flutter.dev/) 
+- Practicing good pratices with Unit and E2E Tests using React Testing Library & @testing-library/react-native   
 
 [![Brendon's github stats](https://github-readme-stats.vercel.app/api?username=BrendonHenrique)](https://github.com/BrendonHenrique/github-readme-stats)
 
