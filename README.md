@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning mainly mobile development 💙 with [Dart](https://dart.dev/) + [Flutter](https://flutter.dev/) 
 - Practicing good pratices with Unit and E2E Tests using React Testing Library @testing-library/react-native & Jest   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonHenrique)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonHenrique&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img align="right" src="https://raw.githubusercontent.com/BrendonHenrique/BrendonHenrique/cb2984da333ec43d7638c1b2ae4752e92e6149ee/draw1.svg" height="100">     
