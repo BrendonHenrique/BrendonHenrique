@@ -29,8 +29,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonHenrique&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![TEST](https://https://youtube.com/)](https://youtube.com/)
-
-
-
 <img align="right" src="https://raw.githubusercontent.com/BrendonHenrique/BrendonHenrique/cb2984da333ec43d7638c1b2ae4752e92e6149ee/draw1.svg" height="100">     
