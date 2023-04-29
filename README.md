@@ -14,7 +14,7 @@
 - 🔭 I’m working on web development & mobile development
 
 - :books: My develop skills includes 
-    - [VueJS](https://vuejs.org/) + [Quasar](https://quasar.dev/) + [Vuex](https://vuex.vuejs.org/)
+    - [VueJS](https://vuejs.org/) + [Quasar](https://quasar.dev/) | [Chakra]([Chakra](https://vue.chakra-ui.com/)) + [Vuex](https://vuex.vuejs.org/)
     - [NuxtJs](https://nuxtjs.org/) 
     - [ReactJs](https://reactjs.org/) + [Redux Toolkit](https://redux-toolkit.js.org/)
     - [NextJs](https://nextjs.org/)
