@@ -25,7 +25,7 @@
     - [C](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
 
 - 🌱 I’m currently learning mainly mobile development 💙 with [Dart](https://dart.dev/) + [Flutter](https://flutter.dev/) 
-- And Also learning (Java)[https://www.java.com/] + (Spring Boot)[https://start.spring.io/] + (Angular)[https://angular.io/]
+- And Also learning [Java](https://www.java.com/) + [Spring Boot](https://start.spring.io/) + [Angular](https://angular.io/)
  
 - Practicing good pratices with Unit and E2E Tests using React Testing Library @testing-library/react-native & Jest   
 
