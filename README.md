@@ -20,14 +20,11 @@
     - [NextJs](https://nextjs.org/)
     - [React-Native](https://reactnative.dev/) + [Expo](https://expo.io/)
     - [Typescript](https://www.typescriptlang.org/)
-    - [Java](oracle.com/java/technologies/) + [SparkFramework](http://sparkjava.com/) 
     - [Node](https://nodejs.org/) + [Express](https://expressjs.com/) 
     - [C](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
+    - [Dart](https://dart.dev/) + [Flutter](https://flutter.dev/) 
+    - [Java](https://www.java.com/) + [Spring Boot](https://start.spring.io/) 
 
-- 🌱 I’m currently learning mainly mobile development 💙 with [Dart](https://dart.dev/) + [Flutter](https://flutter.dev/) 
-- And Also learning [Java](https://www.java.com/) + [Spring Boot](https://start.spring.io/) + [Angular](https://angular.io/)
- 
-- Practicing good pratices with Unit and E2E Tests using React Testing Library @testing-library/react-native & Jest   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonHenrique&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
