@@ -20,7 +20,7 @@
     - [NextJs](https://nextjs.org/)
     - [React-Native](https://reactnative.dev/) + [Expo](https://expo.io/)
     - [Typescript](https://www.typescriptlang.org/)
-    - [Node](https://nodejs.org/) + [Express](https://expressjs.com/) | [NestJS] (https://nestjs.com/)
+    - [Node](https://nodejs.org/) + [Express](https://expressjs.com/) | [NestJS](https://nestjs.com/)
     - [C](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
     - [Dart](https://dart.dev/) + [Flutter](https://flutter.dev/) 
     - [Java](https://www.java.com/) + [Spring Boot](https://start.spring.io/) 
